@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E44B8E23-BBD6-4E8D-804A-9E7B2FDDECFD"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6D3AE94C-22F8-4853-9AE4-4612E7DA1569"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TileOrganizer/Tile/TileView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "create(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6D3AE94C-22F8-4853-9AE4-4612E7DA1569 - 5f35b412b04a0d63"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TileOrganizer.TileView.create(TileOrganizer.TileModel) -&gt; some"
+                  moduleName = "TileOrganizer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/derycktomiuc/Documents/work/code/Other/TileOrganizer/TileOrganizer/Tile/TileView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "1208">
+               </Location>
+               <Location
+                  uuid = "6D3AE94C-22F8-4853-9AE4-4612E7DA1569 - e4d712035d405e81"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Bool) -&gt; () in TileOrganizer.TileView.create(TileOrganizer.TileModel) -&gt; some"
+                  moduleName = "TileOrganizer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/derycktomiuc/Documents/work/code/Other/TileOrganizer/TileOrganizer/Tile/TileView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "124">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "713F1911-DC7B-4602-A94B-E60AC7F21C79"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TileOrganizer/TileCollection/TileCollectionViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "isSelected(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "53715E75-6BCE-4F5E-90FA-9DFABB1B51C6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TileOrganizer/TileCollection/TileCollectionViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "didSelect(tile:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6C645DCB-9A04-4F59-B780-51B29B79EA9C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TileOrganizer/TileCollection/TileCollectionViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "didSelect(tile:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6C645DCB-9A04-4F59-B780-51B29B79EA9C - 666b428c2fd1558a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TileOrganizer.TileCollection.ViewModel.didSelect(tile: Swift.Array&lt;TileOrganizer.TileModel&gt;) -&gt; ()"
+                  moduleName = "TileOrganizer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/derycktomiuc/Documents/work/code/Other/TileOrganizer/TileOrganizer/TileCollection/TileCollectionViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "320">
+               </Location>
+               <Location
+                  uuid = "6C645DCB-9A04-4F59-B780-51B29B79EA9C - ed90f39cfd9565c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;TileOrganizer.TileModel&gt;) -&gt; Swift.Bool in TileOrganizer.TileCollection.ViewModel.didSelect(tile: Swift.Array&lt;TileOrganizer.TileModel&gt;) -&gt; ()"
+                  moduleName = "TileOrganizer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/derycktomiuc/Documents/work/code/Other/TileOrganizer/TileOrganizer/TileCollection/TileCollectionViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E093BAF7-1B78-4683-94E0-7E9927355F96"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TileOrganizer/TileCollection/TileCollectionView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "addTiles(spacing:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "59086B4A-29CA-4863-953B-C061EEF3964F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TileOrganizer/Tile/TileView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "create(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8D940A69-C936-4512-BA76-737FA9E9342C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TileOrganizer/Tile/TileViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "init(tile:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
